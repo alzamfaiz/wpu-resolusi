@@ -1,12 +1,13 @@
 Rencana konten wpu
 
-
 -javascript
  *ES6
  *Framework javascript
-  ^Angular
+  ^Vue
   ^React
+-Struktur data dasar
 -php framework
  ^Laravel
 -interview
 -vlog
+-phiton
